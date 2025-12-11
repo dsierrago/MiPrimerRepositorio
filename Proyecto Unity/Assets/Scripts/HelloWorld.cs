@@ -10,5 +10,6 @@ public class HelloWorld : MonoBehaviour
     public void Start()
     {
         Debug.Log("HelloWorldStart");
+        Debug.Log("Hello World");
     }
 }
